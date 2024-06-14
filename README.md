@@ -24,7 +24,7 @@ I'm a full stack web developer
 
 <div align="center">
   <a href="https://www.instagram.com/joecode001?igsh=cjd4dXYzMTAxcmF3">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" style="margin: 10px;" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" style="background-color: #E1306C; border-radius: 5px; margin: 10px; padding: 10px;" />
   </a>
   <a href="https://discord.com/invite/zwh3SVgk">
     <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" style="margin: 10px;" />
