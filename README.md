@@ -30,7 +30,7 @@ I'm a full stack web developer
   [Discord](https://discord.com/invite/zwh3SVgk)
 
 - ![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)
-  [Gmail](mailto:jctech333@gmail.com?subject=Let's Connect&body=I need your Services)
+  [Gmail](mailto:jctech333@gmail.com)
 
 - ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
   [Facebook](https://www.facebook.com/JoeCode001?mibextid=ZbWKwL)
