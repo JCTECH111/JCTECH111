@@ -26,21 +26,15 @@ I'm a full stack web developer
 - <a href="https://www.instagram.com/joecode001?igsh=cjd4dXYzMTAxcmF3"> ![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white) </a>
  
 
-- ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-  [Discord](https://discord.com/invite/zwh3SVgk)
+- <a href="https://discord.com/invite/zwh3SVgk">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
 
-- ![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)
-  [Gmail](mailto:jctech333@gmail.com)
+- <a href="mailto:jctech333@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-- ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-  [Facebook](https://www.facebook.com/JoeCode001?mibextid=ZbWKwL)
+- <a href="https://www.facebook.com/JoeCode001?mibextid=ZbWKwL">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 
-- ![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-  [Tiktok](https://www.tiktok.com/@joecode001?_t=8mcMGshMj0H&_r=1)
+- <a href="https://www.tiktok.com/@joecode001?_t=8mcMGshMj0H&_r=1">![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)</a>
   
-- ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-  [Youtube](https://youtube.com/@joecode001?si=UroXphbseKwgYoj_)
+- <a href="https://youtube.com/@joecode001?si=UroXphbseKwgYoj_">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
   
-- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-  [WhatsApp](https://wa.me/message/3KQ22NAAHCSKE1)
+- <a href="https://wa.me/message/3KQ22NAAHCSKE1">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
