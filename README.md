@@ -19,6 +19,29 @@ I'm a full stack web developer
 ### Tools & Technologies
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 How to reach me
-- [Whatsapp](https://wa.me/qr/7AQDB3GTR3MOB1)
-- [Gmail](jctech333@gmail.co)
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://www.instagram.com/joecode001?igsh=cjd4dXYzMTAxcmF3">
+    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" style="margin: 10px;" />
+  </a>
+  <a href="https://discord.com/invite/zwh3SVgk">
+    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" style="margin: 10px;" />
+  </a>
+  <a href="mailto:jctech333@gmail.com?subject=Let's Connect&body=I need your Services">
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" style="margin: 10px;" />
+  </a>
+  <a href="https://www.facebook.com/JoeCode001?mibextid=ZbWKwL">
+    <img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" alt="Facebook" style="margin: 10px;" />
+  </a>
+  <a href="https://www.tiktok.com/@joecode001?_t=8mcMGshMj0H&_r=1">
+    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok.png" alt="Tiktok" style="margin: 10px;" />
+  </a>
+  <a href="https://youtube.com/@joecode001?si=UroXphbseKwgYoj_">
+    <img src="https://img.icons8.com/ios-filled/50/000000/youtube.png" alt="Youtube" style="margin: 10px;" />
+  </a>
+  <a href="https://wa.me/message/3KQ22NAAHCSKE1">
+    <img src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png" alt="WhatsApp" style="margin: 10px;" />
+  </a>
+</div>
