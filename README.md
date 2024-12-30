@@ -26,8 +26,8 @@ A **Full Stack Web Developer** passionate about building dynamic and visually ap
 ---
 
 ## 📈 **GitHub Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JonathanNnamezie&theme=react&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanNnamezie&show_icons=true&theme=react&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JCTECH111&theme=react&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCTECH111&show_icons=true&theme=react&hide_border=true)  
 
 ---
 
