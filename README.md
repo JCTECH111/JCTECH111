@@ -1,33 +1,46 @@
 # Hi there! 👋  
 I'm **Jonathan Nnamezie**  
-A **Full Stack Web Developer** passionate about building dynamic and visually appealing web applications.  
+A **Full Stack Web Developer** passionate about building dynamic, responsive, and visually appealing web applications. With expertise in modern technologies, I aim to deliver efficient and scalable solutions.
 
 ---
 
 ## 🚀 **Tech Stack**  
 ### **Languages**  
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+<p>  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">  
+</p>  
 
 ### **Front-End Development**  
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+<p>  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">  
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">  
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">  
+</p>  
 
 ### **Back-End Development**  
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+<p>  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">  
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite">  
+</p>  
 
 ### **Tools & Technologies**  
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-- ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+<p>  
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">  
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">  
+</p>  
 
 ---
 
 ## 📈 **GitHub Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JCTECH111&theme=react&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCTECH111&show_icons=true&theme=react&hide_border=true)  
+<p>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JCTECH111&theme=react&hide_border=true" alt="GitHub Streak">  
+  <img src="https://github-readme-stats.vercel.app/api?username=JCTECH111&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCTECH111&layout=compact&theme=react&hide_border=true" alt="Most Used Languages">  
+</p>  
 
 ---
 
@@ -47,5 +60,6 @@ A **Full Stack Web Developer** passionate about building dynamic and visually ap
 
 ## 💼 **Projects & Portfolio**  
 Explore my work:  
-- 📂 [GitHub Repositories](https://github.com/JonathanNnamezie)  
+- 📂 [GitHub Repositories](https://github.com/Jctech111)  
 - 🌐 [Personal Portfolio](#) *(Coming Soon!)*  
+
