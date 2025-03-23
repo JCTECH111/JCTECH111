@@ -42,6 +42,7 @@ A **Full Stack Web Developer** passionate about building dynamic, responsive, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCTECH111&layout=compact&theme=react&hide_border=true" alt="Most Used Languages">  
 </p>  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=JCTECH111&theme=onedark)](https://github.com/JCTECH111/github-profile-trophy)
 ---
 
 ## 🌐 **Let's Connect!**  
