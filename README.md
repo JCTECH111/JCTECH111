@@ -37,12 +37,12 @@ A **Full Stack Web Developer** passionate about building dynamic, responsive, an
 
 ## 📈 **GitHub Stats**  
 <p>  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JCTECH111&theme=react&hide_border=true" alt="GitHub Streak">  
-  <img src="https://github-readme-stats.vercel.app/api?username=JCTECH111&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCTECH111&layout=compact&theme=react&hide_border=true" alt="Most Used Languages">  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoeCode001&theme=react&hide_border=true" alt="GitHub Streak">  
+  <img src="https://github-readme-stats.vercel.app/api?username=JoeCode001&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeCode001&layout=compact&theme=react&hide_border=true" alt="Most Used Languages">  
 </p>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JCTECH111&theme=onedark)](https://github.com/JCTECH111/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoeCode001&theme=onedark)](https://github.com/JoeCode001/github-profile-trophy)
 ---
 
 ## 🌐 **Let's Connect!**  
@@ -61,6 +61,6 @@ A **Full Stack Web Developer** passionate about building dynamic, responsive, an
 
 ## 💼 **Projects & Portfolio**  
 Explore my work:  
-- 📂 [GitHub Repositories](https://github.com/Jctech111)  
+- 📂 [GitHub Repositories](https://github.com/JoeCode001)  
 - 🌐 [Personal Portfolio](#) *(Coming Soon!)*  
 
